@@ -6,9 +6,9 @@ const CONFIG = {
     role: "Backend Developer",
     bio: "I develop everything that might change any society issue.",
     email: "lonelynight1026@gmail.com",
-    linkedin: "vanillacake369",
-    github: "vanillacake369",
-    instagram: "iamwhtiam247",
+    linkedin: "https://www.linkedin.com/in/vanillacake369/",
+    github: "https://github.com/vanillacake369",
+    instagram: "https://www.instagram.com/iamwhtiam247/",
   },
   projects: [
     {
@@ -53,7 +53,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || "",
       "issue-term": "og:title",
