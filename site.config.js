@@ -6,14 +6,22 @@ const CONFIG = {
     role: "Backend Developer",
     bio: "I develop everything that might change any society issue.",
     email: "lonelynight1026@gmail.com",
-    linkedin: "https://www.linkedin.com/in/vanillacake369/",
-    github: "https://github.com/vanillacake369",
-    instagram: "https://www.instagram.com/iamwhtiam247/",
+    linkedin: "vanillacake369",
+    github: "vanillacake369",
+    instagram: "iamwhtiam247",
   },
   projects: [
     {
-      name: `gream`,
+      name: `기프티콘 입찰 거래 플랫폼`,
       href: "https://github.com/Team-BC-1/gream",
+    },
+    {
+      name: `제20회 예천아시아 U20 아시아 육상대회 관리 시스템`,
+      href: "https://github.com/vanillacake369/u20_dj",
+    },
+    {
+      name: `농기계/농기술 거래 플랫폼`,
+      href: "https://github.com/vanillacake369/osef",
     },
   ],
   // blog setting (required)
