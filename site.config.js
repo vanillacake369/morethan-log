@@ -15,14 +15,6 @@ const CONFIG = {
       name: `기프티콘 입찰 거래 플랫폼`,
       href: "https://github.com/Team-BC-1/gream",
     },
-    {
-      name: `제20회 예천아시아 U20 아시아 육상대회 관리 시스템`,
-      href: "https://github.com/vanillacake369/u20_dj",
-    },
-    {
-      name: `농기계/농기술 거래 플랫폼`,
-      href: "https://github.com/vanillacake369/osef",
-    },
   ],
   // blog setting (required)
   blog: {
@@ -31,7 +23,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://tony-tech-blog.vercel.app",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
